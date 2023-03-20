@@ -1,0 +1,13 @@
+.card-holder {
+    min-width: 269px;
+}
+
+@media (max-width: 575px) {
+    .header {
+        flex-direction: column;
+    }
+}
+
+.logo, .project {
+    color: blue;
+}
